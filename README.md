@@ -20,6 +20,8 @@ Instead of creating a file called "api_keys.py" to store my API key and adding t
 
 - I successfully completed most of the requirements with what I learned in the class and the provided hints in the starter file. However, I encountered a trouble finsihing step 5. I used ChatGPT to look up the way to add addtioanl information to the hover message and was able to include the hotel name and the country by applying the method provided, which involves using the "hover_cols" parameter.
 
+- I saved the two maps in HTML format in case they don't display in the main script because of the '%%capture --no-display' syntax that was included in the starter file.
+
 ## Resources
 
 Resources that I referred to for completing this homework:
